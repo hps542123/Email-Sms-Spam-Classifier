@@ -1,4 +1,3 @@
 streamlit
 nltk
 sklearn
-from sklearn.preprocessing import LabelEncoder
